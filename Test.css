@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    color: aliceblue;
+
+    text-align: center;
+
+    p{color: gold;
+
+
+    }
+    .one{
+        color: red;
+        font-weight: bold;
+        font-family: Algerian;
+    }
+
+.two{
+    color: gold;
+    font-size: small;
+
+
+}
+.three{
+border: chartreuse 1px solid;
+    border-radius: 20px 70px 35px 0px;
+
+font-family: Cambria;
+
+}
+table{
+
+    border: chartreuse 2px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,59 @@
+body {
+    color: chartreuse;
+
+
+    /*text-align: center;*/
+
+
+    /*padding: 90px;*/
+
+    margin: 40px;
+
+    background-color: black;
+
+    p {
+        color: gold;
+    }
+
+    .one {
+
+        color: red;
+        font-size: 35px;
+        font-family: "Comic Sans MS";
+        font-weight: bolder;
+    }
+
+    .two {
+        border: deepskyblue 2px double;
+        border-radius: 32px 0px 60px 40px;
+
+
+    }
+
+    a{
+        text-decoration: none;
+    color: aliceblue;
+    }
+a:hover{
+    color: darkorange;
+    font-size: 30px;
+    border: chartreuse 2px solid;
+}
+#one{
+    background-color: #BAD0CE;
+}
+#one:hover{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
